@@ -1,0 +1,6 @@
+pip install yt_dlp
+pkg install ffmpeg
+pip install --upgrade pip
+apt update
+apt upgrade
+termux-setup-storage
